@@ -56,24 +56,17 @@ fp3_time
 quali_date
 quali_time
 sprint_date
-sprint_time
+sprint_time```
 
 ## Visualizations
 
 ### 1. Circuit-by-Circuit Pole Position Win Rate
-
-[masukkan gambar grafik]
-
 ### 2. Top 5 vs Bottom 5 Circuits
-
-[masukkan gambar grafik]
-
 ### 3. Pit Stop Duration Evolution Over Time
-
-[masukkan gambar grafik]
-
 ### 4. Overall Pole Position Win Rate
 ![Circuit Pole Win Rate](visualizations/circuit_pole_win_rate.png)
+
+---
 
 ## Key Findings
 
